@@ -1,0 +1,38 @@
+body {
+    margin:0;
+    background-color:navajowhite;
+}
+
+.container-div {
+
+    position: relative;
+    height: 10em;
+}
+
+
+.bild-1{
+    position: absolute;
+    opacity: 0;
+    height: 10em;
+}
+
+
+.bild-2{
+    position: absolute;
+    opacity: 0;
+    height: 10em;
+}
+
+
+.bild-3{
+    position: absolute;
+    opacity: 0;
+    height: 10em;
+}
+
+.show {
+
+    opacity:1;
+
+
+}
